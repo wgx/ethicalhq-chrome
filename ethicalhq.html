@@ -1,0 +1,124 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<title>New tab</title>
+<link rel="stylesheet" href="awsm.min.css">
+<style>
+.form-inline {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+.pill {
+    text-transform: uppercase;
+    font-size: 0.66em;
+    background: darkgrey;
+    padding: 5px;
+    border-radius: 3px;
+    color: white;
+}
+.badge {
+    font-size: 0.66em;
+    background: darkgray;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+    float: right;
+    margin-top: -25px;
+}
+ul {
+    list-style: none;
+    padding-left: 0px;
+}
+body { 
+    animation: fadeInAnimation ease 0.5s; 
+    animation-iteration-count: 1; 
+    animation-fill-mode: forwards; 
+    font-size: 1em;
+    }
+
+@keyframes fadeInAnimation { 
+    0% { 
+        opacity: 0; 
+    } 
+    100% { 
+        opacity: 1; 
+} 
+} 
+
+@media (prefers-color-scheme: dark) {
+
+    .pill {
+    text-transform: uppercase;
+    font-size: 0.66em;
+    background: darkslategray;
+    padding: 5px;
+    border-radius: 3px;
+    color: #eee;
+    }
+
+    .badge {
+    font-size: 0.66em;
+    background: darkgray;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+    float: right;
+    margin-top: -25px;
+    }
+
+    html {
+        background-color: #121212;
+    }
+
+    body {
+        color: #eee;
+        background: #121212;
+    }
+
+    a, a:link, a:visited {
+        color: #809fff;
+    }
+
+}
+
+
+
+</style>
+</head>
+<body>
+ 
+<main>
+    <section>
+        <h2>Good <span id="chrono_salutation">day.</span></h2>
+    </section>
+    <section>
+        <br />
+        <form action="http://duckduckgo.com/" method="get" class="form-inline">
+            <input type="search" name="q" placeholder="Search with DuckDuckGo, hit return" style="margin-bottom:0px" id="searchBox" />
+            <button type="submit" value="search" name="submit">Search</button>
+        </form>
+        <aside id="ddg-tip" style="display:none">Tip: Missing Google? Add !g to a DDG search to try it in Google instead</aside>
+    </section>
+
+    <section>
+        <p class="pill">Most visited pages</p>
+        <div id="mostVisited_div"></div>
+    </section>
+
+    <section>
+        <p class="pill">Ethical products</p>
+        <a href="#" id="productURL"><h3 id="productName"></h3></a>
+        <span id="productCategory" class="badge"></span>
+        <p id="productDescription"></p>
+    </section>
+
+</main>
+
+<footer>
+    <p><small>Curated by <a href="http://EthicalHQ.com/">EthicalHQ.com</a>. 🖤</small></p>
+</footer>
+
+<script src="render.js"></script>
+</body>
+</html>
