@@ -1,4 +1,4 @@
-# EthicalHQ Add-on for Chrome
+# EthicalHQ Extension for Chrome
 
 Install from the Chrome Web Store: 
 
