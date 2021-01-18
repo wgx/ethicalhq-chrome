@@ -5,27 +5,33 @@
 <link rel="stylesheet" href="awsm.min.css">
 <!-- Built from source at: https://github.com/wgx/ethicalhq-chrome -->
 <style>
+a, a:link, a:visited {
+    color: #2D3748;
+}
+
+input {
+    border-radius: 5px !important;
+}
+
+button {
+    border-radius: 5px;
+    background-color: #718096;
+    border: 0px;
+    margin-left: 2px;
+    color: white;
+}
+
 .form-inline {
     display: flex;
     flex-wrap: nowrap;
     align-items: center;
 }
 .pill {
-    text-transform: uppercase;
     font-size: 0.66em;
-    background: darkgrey;
+    background: #E8ECF0;
     padding: 5px;
     border-radius: 3px;
-    color: white;
-}
-.badge {
-    font-size: 0.66em;
-    background: darkgray;
-    padding: 5px;
-    border-radius: 5px;
-    color: white;
-    float: right;
-    margin-top: -25px;
+    color: #2D3748;
 }
 ul {
     list-style: none;
@@ -49,23 +55,14 @@ body {
 
 @media (prefers-color-scheme: dark) {
 
-    .pill {
-    text-transform: uppercase;
-    font-size: 0.66em;
-    background: darkslategray;
-    padding: 5px;
-    border-radius: 3px;
-    color: #eee;
+    button {
+    background-color: #718096;
+    color: white;
     }
 
-    .badge {
-    font-size: 0.66em;
-    background: darkgray;
-    padding: 5px;
-    border-radius: 5px;
+    .pill {
+    background: #718096;
     color: white;
-    float: right;
-    margin-top: -25px;
     }
 
     html {
@@ -82,8 +79,6 @@ body {
     }
 
 }
-
-
 
 </style>
 </head>
@@ -108,9 +103,8 @@ body {
     </section>
 
     <section>
-        <p class="pill">Ethical products</p>
-        <a href="#" id="productURL"><h3 id="productName"></h3></a>
-        <span id="productCategory" class="badge"></span>
+        <p class="pill">Ethical products | <span id="productCategory"></span></p>
+        <a href="#" id="productURL" target="_blank"><h3 id="productName"></h3></a>
         <p id="productDescription"></p>
     </section>
 
