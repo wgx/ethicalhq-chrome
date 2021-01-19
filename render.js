@@ -25,28 +25,23 @@ chrome.storage.local.get(['data'], storeData => {
 
 
 // Get the topsites from the browser and parse those in too
+ 
+function buildPopupDom(mostVisitedURLs) {
+  var popupDiv = document.getElementById('mostVisited_div');
+  var ul = popupDiv.appendChild(document.createElement('ul'));
 
-function onAnchorClick(event) {
-    chrome.tabs.create({ url: event.srcElement.href });
-    return false;
+  for (var i = 0; i < 7; i++) {
+    var li = ul.appendChild(document.createElement('li'));
+    var a = li.appendChild(document.createElement('a'));
+    a.href = mostVisitedURLs[i].url;
+    a.appendChild(document.createTextNode(mostVisitedURLs[i].title));
+    a.addEventListener('click', onAnchorClick);
   }
-  
-  function buildPopupDom(mostVisitedURLs) {
-    var popupDiv = document.getElementById('mostVisited_div');
-    var ul = popupDiv.appendChild(document.createElement('ul'));
-  
-    for (var i = 0; i < 7; i++) {
-      var li = ul.appendChild(document.createElement('li'));
-      var a = li.appendChild(document.createElement('a'));
-      a.href = mostVisitedURLs[i].url;
-      a.appendChild(document.createTextNode(mostVisitedURLs[i].title));
-      a.addEventListener('click', onAnchorClick);
-    }
-  }
-  chrome.topSites.get(buildPopupDom);
+}
+chrome.topSites.get(buildPopupDom);
 
 
-  // show DDG tip on search bar focus
+// show DDG tip on search bar focus
 
 var el = document.getElementById('searchBox');
 
