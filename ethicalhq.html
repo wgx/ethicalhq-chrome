@@ -5,6 +5,17 @@
 <link rel="stylesheet" href="awsm.min.css">
 <!-- Built from source at: https://github.com/wgx/ethicalhq-chrome -->
 <style>
+
+.site {
+  display: flex;
+  min-height: 90vh;
+  flex-direction: column;
+}
+
+.site-content {
+  flex: 1;
+}
+
 a, a:link, a:visited {
     color: #2D3748;
 }
@@ -82,9 +93,9 @@ body {
 
 </style>
 </head>
-<body>
+<body class="site">
  
-<main>
+<main class="site-content">
     <section>
         <h2>Good <span id="chrono_salutation">day.</span></h2>
     </section>
