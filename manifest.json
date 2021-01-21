@@ -13,7 +13,7 @@
     },
     "content_security_policy": "script-src 'self'; object-src 'self'",
     "name": "Ethical Product Alternatives",
-    "permissions": [ "storage", "topSites" ],
+    "permissions": [ "storage" ],
     "version": "1.0.3"
  }
  
