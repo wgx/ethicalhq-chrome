@@ -1,6 +1,6 @@
 # EthicalHQ Extension for Chrome
 
-Install from the Chrome Web Store: 
+Install from the Chrome Web Store: [https://chrome.google.com/webstore/detail/ethical-product-alternati/eabankpaegapghbcmaghhonhlnnagbnl](https://chrome.google.com/webstore/detail/ethical-product-alternati/eabankpaegapghbcmaghhonhlnnagbnl)
 
 An ethical alternative product every time you open a new tab.
 
