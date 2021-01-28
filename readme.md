@@ -17,3 +17,7 @@ An ethical alternative product every time you open a new tab.
 * v4.6.3
 * [https://github.com/mholt/PapaParse](https://github.com/mholt/PapaParse)
 * License: MIT
+
+### Product list
+
+Curated from [Ethical.net](https://ethical.net/), [PrivacyTools](https://privacytools.io/), and [DeGoogle](https://degoogle.jmoore.dev/).
