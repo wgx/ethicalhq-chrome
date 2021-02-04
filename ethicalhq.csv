@@ -1,4 +1,4 @@
-Mailfence, https://mailfence.com, One of the world's most secure Gmail Alternatives,Email services 
+Mailfence, https://mailfence.com, One of the world's most secure Gmail Alternatives,Email services
 1 Million Women,https://1millionwomen.com.au/,A global movement of women building a lifestyle revolution to fight the climate crisis.,Organisations
 5Gyres,https://5gyres.org/,"Empowering action against plastic pollution through science, education, and adventure.",Organisations
 7-Zip,https://7-zip.org,A file archiver with a high compression ratio.,Storage
@@ -17,8 +17,7 @@ Alpine Linux ,https://alpinelinux.org/,"A security-oriented, lightweight Linux d
 Anchor ,https://anchorcms.com/,"A super-simple, lightweight blog system, made to let you just write.",Content and Blogging
 AnonAddy,https://anonaddy.com/,An open-source anonymous email forwarding service that protects your real email address from spam by using a different unique email alias for every website.,Email services
 AnySoftKeyboard,https://anysoftkeyboard.github.io/,Open-source keyboard.,Functions
-Apertium,https://apertium.org/,"A free/open-source machine translation platform.
-",Translation
+Apertium,https://apertium.org/,"A free/open-source machine translation platform.",Translation
 Apertus,https://apertus.org/,"Free, open-source professional digital cinema and imaging tools.",Video
 APKGrabber,https://github.com/hemker/apkgrabber,Fork of APKUpdater. Both are great tools for avoiding app stores (on Android).,Software
 APKMirror ,https://apkmirror.com/,An online library of user-uploaded APK files.,Software
@@ -70,8 +69,7 @@ Center for Humane Technology,http://humanetech.com/,Working to realign technolog
 CharityBase,https://charitybase.uk/,Comprehensive database of UK charities.,Organisations
 Citationsy,https://citationsy.com/,"Private, simple and quick referencing for anyone who values simplicity, privacy, and speed.",Tools
 Claws Mail,https://www.claws-mail.org/,"Claws Mail is an email client (and news reader), based on GTK+.",Email services
-ClearURLs,https://addons.mozilla.org/en-US/firefox/addon/clearurls,"Removes tracking elements from URLs.
-",Browser extension
+ClearURLs,https://addons.mozilla.org/en-US/firefox/addon/clearurls,"Removes tracking elements from URLs.",Browser extension
 ClearURLs,https://gitlab.com/KevinRoebert/ClearUrls,An add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy when browse through the Internet.,Browser extension
 Climate 365,https://climate365.org/,Send one email per day for 365 days to representatives of the 365 most polluted cities across the globe.,Email services
 ClimateAction.tech,https://climateaction.tech/,Global community of tech professionals supporting solutions to the climate crisis.,Tech Organisations
@@ -95,8 +93,7 @@ Criterion Channel,https://www.criterionchannel.com/,Classics and discoveries fro
 Crowd Justice,https://crowdjustice.com,Crowdfunding for legal issues large and small.,Platforms
 Cryptee,https://crypt.ee/,Encrypted photo storage in a simple solution similar to Google Photos.,Photos
 Cryptpad,https://cryptpad.fr/,A private-by-design alternative to popular office tools.,Productivity
-CSS Exfil Protection,https://addons.mozilla.org/en-US/firefox/addon/css-exfil-protection,"Plugin that sanitizes and blocks any CSS rules which may be designed to steal data.
-",Browser extension
+CSS Exfil Protection,https://addons.mozilla.org/en-US/firefox/addon/css-exfil-protection,"Plugin that sanitizes and blocks any CSS rules which may be designed to steal data.",Browser extension
 CTemplar,https://ctemplar.com/,A safe and secure platform for sending emails and sharing files by using end-to-end encryption.,Email services
 Cyber,https://cyber.page/,Decentralizing tools for everyday life.,Search engine
 Dark Patterns,https://darkpatterns.org/,Exposing deceptive user interfaces.,Behavioral Science
@@ -111,8 +108,7 @@ Design Kit,http://designkit.org/resources,Design agency advocating for human-cen
 Design Life-Cycle,http://designlife-cycle.com/,Hundreds of data visualisations of the life-cycle of common products.,Tools
 Designing Mindfulness,https://designingmindfulness.com/#home/designing-mindfulness,How to make technology which takes care of the people who use it.,Behavioral Science
 Diaspora,https://diasporafoundation.org/,"Facebook alternative based on the principles of decentralisation, freedom and privacy.",Hangouts
-Disconnect,https://addons.mozilla.org/en-US/firefox/addon/disconnect,"Make the web faster, more private, and more secure.
-",Browser extension
+Disconnect,https://addons.mozilla.org/en-US/firefox/addon/disconnect,"Make the web faster, more private, and more secure.",Browser extension
 Disconnect,https://disconnect.me/,Free yourself from unwanted tracking and take back control of your personal information.,Tools
 Discourse ,https://discourse.group/,100% open source discussion platform built for the next decade of the Internet,Forum
 DNSCloak,https://github.com/s-s/dnscloak/blob/master/README.md,"Open-source DNSCrypt and DNS over HTTPS (DoH) client for iOS, which gives users the ability to encrypt their DNS requests through the use of an on-device VPN profile.",Server
@@ -158,7 +154,6 @@ Feeder,https://gitlab.com/spacecowboy/Feeder/-/blob/master/README.md,"A fully fr
 Fennec F-Droid,https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/,Browser that supports current and anticipated web standards.,Browser extension
 File Pizza,https://file.pizza/,Free peer-to-peer file transfers in your browser.,Storage
 Filecloud Community Edition,https://getfilecloud.com/filecloud-community-edition/,"Powerful, secure Dropbox-like enterprise class file sharing and sync solution for home or business.",Storage
-Firefox,https://firefox.com/,Free open source web browser.,Search engine
 Firefox DNS-over-HTTPS,https://support.mozilla.org/en-US/kb/firefox-dns-over-https,A feature that enhances your privacy.,Server
 Firefox Mobile,https://mozilla.org/en-US/firefox/mobile/,Automatic privacy on mobile.,Search engine
 Firefox Multi-Account Containers,https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers,Keep parts of your online life separated into color-coded tabs that preserve your privacy.,Browser extension
@@ -279,12 +274,10 @@ LyX,https://lyx.org/,An open-source (and offline) document processor using TeX/L
 Magic-Wormhole,https://magic-wormhole.readthedocs.io,"This package provides a library and a command-line tool named wormhole, making it possible to get arbitrary-sized files and directories (or short pieces of text) from one computer to another. ",Files
 Mailbox,https://mailbox.org/,"Secure, ad-free e-mail, online office and cloud storage.",Email services
 Mailfence,https://mailfence.com,Email service that offers OpenPGP based end-to-end encryption and digital signatures. It,Email services
-Mailpile,https://mailpile.is/,A free and open-source email client with the main focus of privacy and usability. ,Email services
-"Mailspring
-",https://getmailspring.com/,"Open-source email with advanced search, translation, spellcheck and more.",Email services
+Mailpile,https://mailpile.is/,A free and open-source email client with the main focus of privacy and usability.,Email services
+"Mailspring",https://getmailspring.com/,"Open-source email with advanced search, translation, spellcheck and more.",Email services
 MALP,https://gitlab.com/gateship-one/malp/-/blob/master/README.md,A remote control for the music player daemon.,Entertainment
-MAPS,https://gitlab.com/axet/omim/-/blob/HEAD/README.md,"An open source cross-platform offline maps application,
-built on top of crowd-sourced OpenStreetMap data.",Maps
+MAPS,https://gitlab.com/axet/omim/-/blob/HEAD/README.md,"An open source cross-platform offline maps application, built on top of crowd-sourced OpenStreetMap data.",Maps
 Mapstr,https://mapstr.com/,Privacy-focused way to keep track of your favourite places around the world.,Maps
 Marble,https://kde.org/applications/education/org.kde.marble,"Versatile, yet easy to use virtual globe and world atlas.",Maps
 Markor,https://gsantner.net/project/markor.html,A text editor for Android that utilizes simple markup formats. ,Functions
@@ -339,7 +332,7 @@ Notepad,https://github.com/farmerbb/Notepad,"A simple, bare-bones, no-frills not
 Nuclear,https://nuclear.js.org/,Modern music player focused on streaming from free sources.,Streaming services 
 Nuclino,https://nuclino.com/,"A lightweight and collaborative wiki for all your team's knowledge, docs, and notes.",Office
 Offen,https://offen.dev/,An open alternative to common web analytics tools.,Analytics
-Öffi,https://oeffi.schildbach.de/,"Android app that tells you where and when trains and busses go, including delays and replacement bus service for more and more transport authorities in Europe and beyond.",Maps
+"Öffi",https://oeffi.schildbach.de/,"Android app that tells you where and when trains and busses go, including delays and replacement bus service for more and more transport authorities in Europe and beyond.",Maps
 OLIO,https://olioex.com/,Collect surplus food from neighbours to avoid food waste and connect with your community.,Mobile apps
 Omega,https://github.com/otakuhqz/omega,Free and open source launcher.,Software
 Omni Notes,https://omninotes.app/,Note taking open-source application aimed to have both a simple interface but keeping smart behavior.,Functions
@@ -384,8 +377,7 @@ Porkbun,https://porkbun.com/,ICANN accredited domain name registrar.,Domains
 Posteo,https://posteo.de/en,An innovative email provider that is concerned with sustainability and privacy and is completely ad-free. ,Email services
 Posthaven,https://posthaven.com/,"A safe place for all your posts, forever.",Content and Blogging
 PostmarketOS,https://postmarketos.org/,"Sustainable, privacy and security-focused free software mobile OS that is modeled after traditional Linux distributions.",Mobile
-Privacy Badger,https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17,"Automatically learns to block invisible trackers.
-",Browser extension
+Privacy Badger,https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17,"Automatically learns to block invisible trackers.",Browser extension
 Privacy-Oriented Origin Policy,https://addons.mozilla.org/en-US/firefox/addon/privacy-oriented-origin-policy,"Prevent Firefox from sending Origin headers when they are least likely to be necessary, to protect your privacy.",Browser extension
 Privado,https://privado.com/,Private search with no tracking or storage of your searches or IP address.,Search engine
 PrivateBin,https://privatebin.info/,"A minimalist, open source online pastebin where the server has zero knowledge of pasted data.",Server
@@ -403,8 +395,7 @@ Raidboxes,https://raidboxes.io/,"WordPress hosting on 100% renewable energy, fro
 Rapid Transition,https://rapidtransition.org/,The climate is changing faster than we are - how do we speed up?,Organisations
 Recycle More,https://recycle-more.co.uk/,All you need to know about recycling in the UK.,Campaigns
 Recycle Now,https://recyclenow.com/,National recycling campaign for England.,Campaigns
-Redirect AMP to HTML,https://addons.mozilla.org/en-US/firefox/addon/amp2html,"Automatically redirects AMP pages to the regular web page variant.
-",Browser extension
+Redirect AMP to HTML,https://addons.mozilla.org/en-US/firefox/addon/amp2html,"Automatically redirects AMP pages to the regular web page variant.",Browser extension
 Replicant,https://replicant.us/,A free software mobile operating system emphasizing freedom and privacy/security.,Mobile
 Resilio,https://resilio.com/individuals-sync/,"File syncing and sharing, powered by P2P technology.",Storage
 Resonate,https://resonate.is/,"A co-op built on the Blockchain, you only pay for the music you stream.",Streaming services
@@ -458,8 +449,7 @@ Supabase,https://supabase.io/,Supabase is an opensource alternative to Firebase.
 Swisscows,https://swisscows.ch,Data secure search engine.,Search engine
 Sympa,https://sympa.org/,An electronic mailing list manager.,Email services
 Sync  ,https://sync.com,End-to-end encrypted cloud storage.,Storage
-Syncthing,https://syncthing.net/,"Open, trustworthy and decentralised sync and cloud services.
- ",Storage
+Syncthing,https://syncthing.net/,"Open, trustworthy and decentralised sync and cloud services.",Storage
 Tahoe-LAFS,https://tahoe-lafs.org/,A free and open decentralized cloud storage system. ,Storage
 Tails,https://tails.boum.org/,Portable operating system that protects against surveillance and censorship.,Desktop
 TallyLab,https://tallylab.com/,"A data tracking app where your data is your data, and you alone reap the insights.",Analytics
