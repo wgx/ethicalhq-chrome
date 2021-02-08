@@ -35,7 +35,7 @@ Aurora Droid,https://forum.xda-developers.com/android/apps-games/app-aurora-droi
 Authenticator ,https://mattrubin.me/authenticator/,Open source two-factor authentication app.,Security
 Backdrop,https://backdropcms.org/,Free and open-source CMS.,Content and Blogging
 Bahnhof,https://bahnhof.net/,A leading independent cloud provider.,Storage
-Baïkal,https://sabre.io/baikal/,"A lightweight CalDAV+CardDAV server which offers an extensive web interface with easy management of users, address books and calendars. ",Email services
+Baïkal,https://sabre.io/baikal/,"A lightweight CalDAV+CardDAV server which offers an extensive web interface with easy management of users, address books and calendars.",Email services
 Bandcamp,https://bandcamp.com/,Music platform with a fair trade for artists policy.,Streaming services
 Be My Eyes,https://bemyeyes.com/,A free app that connects blind and low-vision people with sighted volunteers and company representatives for visual assistance through a live video call.,Mobile apps
 Bear,https://bearblog.dev/,"Free, no-nonsense, super-fast blogging. No javascript, no stylesheets, no trackers.",Content and Blogging
@@ -51,7 +51,6 @@ BlackHole,https://blackhole.run/,Fast and private file sharing.,Storage
 Blender,https://blender.org/,Free and open-source 3D creation suite.,Design
 BlockSurvey,https://blocksurvey.io/,"End-to-end encrypted surveys, polls and forms.",Forms
 Blokada,https://blokada.org/,Popular ad blocker and privacy app for Android and iOS.,Security
-Brave,https://brave.com/,"Private and secure web browser for PC, Mac and mobile.",Search engine
 Briar,https://briarproject.org,An open-source app which supports Peer-to-Peer encrypted messaging.,Hangouts 
 Brick,https://brick.im,An open-source webfont service that serves fonts in their original form for high quality rendering across all browsers.,Productivity
 Bring Back Heavy Metal,https://www.bringbackheavymetal.co.uk/,National battery recycling campaign.,Campaigns
@@ -85,7 +84,6 @@ ContextCue,https://contextcue.com/,"A privacy-focused advertising network that a
 Conversations,https://conversations.im/,Federated chat application.,Hangouts
 Cookie AutoDelete,https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete,Automatically Delete Cookies.,Browser extension
 CoopCycle,https://coopcycle.org/en/,"European federation of bike delivery coops, promoting a social and environmentally friendly model.",Mobile apps
-CopperheadOS,https://copperhead.co/android,"A proprietary mobile operating system for smartphones, based on the Android mobile platform.",Mobile
 Countly,https://count.ly/,"Analytics platform for securely tracking across web, desktop, and mobile.",Analytics
 Coworker.org,https://home.coworker.org/,"Start, run and win campaigns to change your workplace.",Platforms
 Cozy,https://cozy.io/,"Personal cloud that gather all your data for more services, control and security.",Storage
@@ -126,13 +124,13 @@ Ecotalk,https://ecotalk.co.uk/,UK phone network that's powered by 100% green ene
 Edinburgh Remakery,https://edinburghremakery.org.uk/,"An environmental social enterprise committed to diverting waste from landfill, building a stronger community, and promoting a culture of repair and reuse.",Organisations
 Ekoru,https://ekoru.org/,Search engine dedicated to saving the planet.,Search engine
 electricityMap,https://electricitymap.org,Mapping the climate impact of electricity by country.,Maps
-Element,https://element.io,"All-in-one secure chat app for teams, friends and organisations. ",Hangouts 
+Element,https://element.io,"All-in-one secure chat app for teams, friends and organisations.",Hangouts 
 Element Android,https://github.com/vector-im/element-android,Element is a glossy client with an emphasis on performance and usability.,Hangouts
 Erjjio,https://erjjiostudios.com/,Free website health check and plant trees on behalf of every customer every month.,Web hosting
 ETag Stoppa,https://addons.mozilla.org/firefox/addon/etag-stoppa/,Prevents Firefox from storing entity tags by removing ETag response headers unconditionally and without exceptions.,Browser extension
 Etar Calendar,https://github.com/xsoh/Etar-Calendar,An open source material designed calendar made for everyone.,Utilities
 EteSync,https://etesync.com,"Secure, end-to-end encrypted, and privacy respecting sync for your contacts, calendars, tasks and notes.",Email services
-Etherpad ,https://etherpad.org/,"Edit documents collaboratively in real-time, much like a live multi-player editor that runs in your browser. ",Productivity
+Etherpad ,https://etherpad.org/,"Edit documents collaboratively in real-time, much like a live multi-player editor that runs in your browser.",Productivity
 Ethical Design,https://2017.ind.ie/ethical-design/,The ethical design manifesto.,Behavioral Science
 Ethical Mail,https://ethicalmail.org.au/,"Ad-free, carbon neutral Australian email service.",Email services
 EthicalAds,https://ethicalads.io/,A privacy-focused ad network for developers.,Ads
@@ -143,14 +141,14 @@ F5Bot,https://f5bot.com/,Free social media monitoring.,Alerts
 Facebook Container,https://addons.mozilla.org/en-US/firefox/addon/facebook-container/,Prevent Facebook from tracking you around the web.,Browser extension
 Factr,https://factr.com/,A social network built for organising and sharing knowledge.,Hangouts
 Fairbnb,https://fairbnb.coop/,Community-centred alternative to existing home-sharing platforms.,Accommodation
-FairEmail,https://email.faircode.eu/,"Fully featured, open source, privacy oriented email app for Android. ",Email services
+FairEmail,https://email.faircode.eu/,"Fully featured, open source, privacy oriented email app for Android.",Email services
 Fairphone,https://fairphone.com/en/,Fairphone are creating ethically-sourced and modular smartphones - meaning they can be easily repaired if one part breaks.,Smartphones
 Falkon,https://falkon.org/,A KDE web browser using QtWebEngine rendering engine,Search engine
 Fashion Revolution,https://fashionrevolution.org/,A global movement calling for greater transparency in the fashion industry.,Organisations
 Fastmail,https://fastmail.com/,"Private and secure email, calendars, and contacts.",Email services
 Fathom,https://usefathom.com/,Simple website stats without tracking or storing users' personal data.,Analytics
 Fedora,https://getfedora.org/,"Free, open source platform for hardware, clouds, and containers that enables software developers and community members to build tailored solutions for their users.",Server
-Feeder,https://gitlab.com/spacecowboy/Feeder/-/blob/master/README.md,"A fully free feed reader that supports all common feed formats, including JSONFeed and doesn't track you. ",News
+Feeder,https://gitlab.com/spacecowboy/Feeder/-/blob/master/README.md,"A fully free feed reader that supports all common feed formats, including JSONFeed and doesn't track you.",News
 Fennec F-Droid,https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/,Browser that supports current and anticipated web standards.,Browser extension
 File Pizza,https://file.pizza/,Free peer-to-peer file transfers in your browser.,Storage
 Filecloud Community Edition,https://getfilecloud.com/filecloud-community-edition/,"Powerful, secure Dropbox-like enterprise class file sharing and sync solution for home or business.",Storage
@@ -237,7 +235,7 @@ Jitsi Meet,https://meet.jit.si/,Jitsi is an open-source secure video conferencin
 Joomla!,https://joomla.org/,Self-hosted and open-source content management system (CMS).,Content and Blogging
 Joplin,https://joplinapp.org/,"A free, open source note taking and to-do application, which can handle a large number of notes organised into notebooks.",Productivity
 Joplin ,https://github.com/laurent22/joplin,An open source note taking and to-do application with synchronization capabilities for Android and iOS.,Functions
-Jottacloud,https://jottacloud.com/,"A cloud storage service that lets you backup, synchronize, store and share files from all your devices. ",Photos
+Jottacloud,https://jottacloud.com/,"A cloud storage service that lets you backup, synchronize, store and share files from all your devices.",Photos
 Jumbo,https://jumboprivacy.com/,A universal interface to manage all your privacy needs in one place.,Mobile apps
 K-9 Mail,https://k9mail.github.io/,An open source email client focused on making it easy to chew through large volumes of email.,Email services
 Kanboard,https://kanboard.org/,Free and open-source Kanban software.,Software
@@ -250,7 +248,7 @@ Kimai,https://kimai.org/,Free and open-source timetracker.,Productivity
 Kindmetrics,https://kindmetrics.io,Strictly privacy-focused website analytics tool to help you find referrers and measure good content quickly. ,Analytics
 Kindness,https://kindness.org,A non-profit educating and inspiring people to choose kindness.,Organisations
 Kinsta,https://kinsta.com/,A managed WordPress hosting provider that helps take care of all your needs regarding your website.,Web hosting
-KISS Launcher,https://kisslauncher.com/,"Fast, open-source and small launcher. ",Software
+KISS Launcher,https://kisslauncher.com/,"Fast, open-source and small launcher.",Software
 Known,https://withknown.com/,Open-source collaborative social publishing engine.,Content and Blogging
 Kodi,https://kodi.tv/,"Bring your media to life with endless features, a beautiful interface and ease of use.",Streaming services 
 Kolab Now,https://kolabnow.com/,"A web-based email and groupware service, based entirely on free and open-source software.",Email services
@@ -271,7 +269,7 @@ Loomio,https://loomio.org/,A safe space for teams to make effective decisions.,H
 Love Your Clothes,https://loveyourclothes.org.uk/,Tips and inspiration on loving your clothes and making them last longer.,Organisations
 Lychee,https://lycheeorg.github.io/,An open-source self-hosted photo-management tool that includes built-in support for videos.,Photos
 LyX,https://lyx.org/,An open-source (and offline) document processor using TeX/LaTeX.,Productivity
-Magic-Wormhole,https://magic-wormhole.readthedocs.io,"This package provides a library and a command-line tool named wormhole, making it possible to get arbitrary-sized files and directories (or short pieces of text) from one computer to another. ",Files
+Magic-Wormhole,https://magic-wormhole.readthedocs.io,"This package provides a library and a command-line tool named wormhole, making it possible to get arbitrary-sized files and directories (or short pieces of text) from one computer to another.",Files
 Mailbox,https://mailbox.org/,"Secure, ad-free e-mail, online office and cloud storage.",Email services
 Mailfence,https://mailfence.com,Email service that offers OpenPGP based end-to-end encryption and digital signatures. It,Email services
 Mailpile,https://mailpile.is/,A free and open-source email client with the main focus of privacy and usability.,Email services
@@ -295,7 +293,7 @@ Micro.blog,https://micro.blog,A safe community for microblogs.,Hangouts
 microG,https://microg.org/,A free and open-source implementation of proprietary Google libraries that serves as a replacement for Google Play Services on the Android operating system.,Software
 Midori,https://midori-browser.org/,Browser web that respects the privacy of users by not collecting information or selling invasive advertising.,Search engine
 Migadu,https://migadu.com/en/index.html,Private email provider with unlimited storage.,Email services
-minerBlock,https://addons.mozilla.org/en-US/firefox/addon/minerblock-origin,"Blocks cryptocurrency miners all over the web.
+minerBlock,https://addons.mozilla.org/en-US/firefox/addon/minerblock-origin,"Blocks cryptocurrency miners all over the web.",Browser extension
 Miniflux,https://miniflux.app/,A minimalist and opinionated feed reader with automatically removing pixel trackers.,News
 mltshp,https://mltshp.com/,"Community-funded, picture-based social network.",Hangouts
 Mojeek,https://mojeek.com/,Search engine with no user tracking.,Search engine
@@ -303,8 +301,8 @@ Moodle,https://moodle.org/,Learning Platform or course management system (CMS).,
 Movim ,https://movim.eu/,A social platform for your community.,Hangouts
 Mubi,https://mubi.com,"Subscription service for cult, classic and indie films from around the world.",Streaming services
 Mudita,https://mudita.com/,"Modern, minimalist phone designed to reduce the distractions of daily life.",Smartphones
-Multi-Account Containers,https://support.mozilla.org/kb/containers,"A Firefox add-on that lets you separate your work, shopping, or personal browsing without having to clear your history, log in and out, or use multiple browsers. ",Browser extension
-Mumla,https://mumla-app.gitlab.io/,"A low latency, high quality voice conference and chat system. ",Hangouts
+Multi-Account Containers,https://support.mozilla.org/kb/containers,"A Firefox add-on that lets you separate your work, shopping, or personal browsing without having to clear your history, log in and out, or use multiple browsers.",Browser extension
+Mumla,https://mumla-app.gitlab.io/,"A low latency, high quality voice conference and chat system.",Hangouts
 Music Player Daemon,https://musicpd.org/,"Flexible, powerful, server-side application for playing music.",Streaming services 
 MyBB,https://mybb.com/,Free and open-source forum software.,Hangouts
 myclimate,https://myclimate.org/,Calculate and compensate for your emissions.,Organisations
@@ -338,7 +336,7 @@ Omega,https://github.com/otakuhqz/omega,Free and open source launcher.,Software
 Omni Notes,https://omninotes.app/,Note taking open-source application aimed to have both a simple interface but keeping smart behavior.,Functions
 Onion Browser,https://onionbrowser.com/,It provides a set of features that may enhance privacy and anonymity while browsing the web.,Search engine
 OnionShare,https://onionshare.org/,An open source tool that lets you securely and anonymously share a file of any size.,Files
-ONLYOFFICE	,https://onlyoffice.com,Open-source office suite and collaboration platform.,Productivity
+ONLYOFFICE,https://onlyoffice.com,Open-source office suite and collaboration platform.,Productivity
 Open Camera,https://opencamera.sourceforge.io/,Open Source Camera app for Android phones and tablets.,Utilities
 Open Climate Fix,https://openclimatefix.github.io/,Using machine learning to reduce greenhouse gas emissions as rapidly as possible.,Tech Organisations
 Open Food Network,https://openfoodnetwork.org/,Working to create new and better food systems around the world.,Organisations
@@ -389,7 +387,7 @@ Pydio,https://pydio.com/,Open-source and free forever file sharing.,Storage
 QKSMS,https://github.com/moezbhatti/qksms,An open source replacement to the stock messaging app on Android.,Hangouts
 QOwnNotes,https://qownnotes.org/,Open-source file editor with Markdown support.,Productivity
 Qwant,https://qwant.com/,Privacy-focused search engine.,Search engine
-Radicale,https://radicale.org/,"Self-hosted calendar server written in Python. WebUI for desktop, CalDav/CardDav for mobile sync. ",Email services
+Radicale,https://radicale.org/,"Self-hosted calendar server written in Python. WebUI for desktop, CalDav/CardDav for mobile sync.",Email services
 Radio 4000,https://radio4000.com/,"Playlists generated by humans, not algorithms.",Streaming services
 Raidboxes,https://raidboxes.io/,"WordPress hosting on 100% renewable energy, from hydropower.",Web hosting
 Rapid Transition,https://rapidtransition.org/,The climate is changing faster than we are - how do we speed up?,Organisations
@@ -429,7 +427,7 @@ Simple Calendar,https://github.com/SimpleMobileTools/Simple-Calendar,"A simple c
 Simple Contacts,https://github.com/SimpleMobileTools/Simple-Contacts,A simple app for creating or managing your contacts from any source.,Utilities
 SimpleBlogs,https://simpleblogs.org/,FLOSS blogging platform with a focus on privacy.,Content and Blogging
 SimpleLogin,https://simplelogin.io/,"Open-source, self-hosted, and privacy focused email forwarding service.",Email services
-Simplenote,https://simplenote.com/,"The simplest way to keep all your notes, synced on all your devices. ",Office
+Simplenote,https://simplenote.com/,"The simplest way to keep all your notes, synced on all your devices.",Office
 Skip Redirect,https://addons.mozilla.org/en-US/firefox/addon/skip-redirect,This add-on tries to extract the final url from the intermediary url and goes there straight away if successful.,Browser extension
 Sliced,https://sliced.org/,Find opportunities that have a direct impact on reversing climate change.,Platforms
 Snowflake,https://snowflake.torproject.org,A system to defeat Internet censorship.,Browser extension
@@ -448,7 +446,7 @@ Subgraph OS,https://subgraph.com/index.en.html,A desktop computing and communica
 Supabase,https://supabase.io/,Supabase is an opensource alternative to Firebase.,Analytics
 Swisscows,https://swisscows.ch,Data secure search engine.,Search engine
 Sympa,https://sympa.org/,An electronic mailing list manager.,Email services
-Sync  ,https://sync.com,End-to-end encrypted cloud storage.,Storage
+Sync,https://sync.com,End-to-end encrypted cloud storage.,Storage
 Syncthing,https://syncthing.net/,"Open, trustworthy and decentralised sync and cloud services.",Storage
 Tahoe-LAFS,https://tahoe-lafs.org/,A free and open decentralized cloud storage system. ,Storage
 Tails,https://tails.boum.org/,Portable operating system that protects against surveillance and censorship.,Desktop
@@ -505,7 +503,7 @@ Vanced,https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-ed
 VeraCrypt,https://veracrypt.fr/,"A free open source disk encryption software for Windows, Mac OSX and Linux.",Security
 Vim,https://vim.org/,Highly configurable text editor built to make creating and changing any kind of text very efficient.,Productivity
 Vimeo,https://vimeo.com/,Ad-free video sharing with advanced privacy controls.,Video
-Vivaldi,https://vivaldi.com/,"A fast, private and secure browser that blocks ads and trackers. ",Browser extension
+Vivaldi,https://vivaldi.com/,"A fast, private and secure browser that blocks ads and trackers.",Browser extension
 von morgen,https://kartevonmorgen.org/,Put everything that's good on one map.,Maps
 VSCodium,https://vscodium.com/,Free open source software binaries of VSCode.,Software
 War on Want,https://waronwant.org/,Fighting against the root causes of poverty and human rights violation.,Organisations
@@ -516,12 +514,12 @@ Whaller,https://whaller.com/en/,"Allows teams and organizations to create their 
 Wheelmap,https://wheelmap.org/,Mark and find wheelchair accessible places - worldwide and for free.,Maps
 Whonix,https://whonix.org/,A full operating system that runs inside your current one. ,Software
 Wildlabs.net,https://wildlabs.net/,A community developing tech solutions against the biggest conservation challenges facing the planet.,Tech Organisations
-Wire,https://wire.com/en/,"A secure, privacy-friendly messenger for personal use. ",Hangouts
+Wire,https://wire.com/en/,"A secure, privacy-friendly messenger for personal use.",Hangouts
 Wordpress,https://wordpress.org/,Popular online publishing platform.,Content and Blogging
 Write Freely,https://writefreely.org/,Free and open-source software for starting a blog or community.,Content and Blogging
 Write.as,https://write.as/,Privacy-focused writing platform.,Content and Blogging
 WWF Footprint Calculator,https://footprint.wwf.org.uk/#/,Calculate your environmental footprint.,Climate and Environment
-xBrowserSync,https://xbrowsersync.org/,"Secure, anonymous and free browser syncing. ",Browser extension
+xBrowserSync,https://xbrowsersync.org/,"Secure, anonymous and free browser syncing.",Browser extension
 Yalp Store,https://github.com/kiliakin/YalpStore,Yalp Store lets you download apps from Google Play Store as apk files.,Software
 Zap,https://zotlabs.com/zap/,Social networking platform with privacy centre stage.,Hangouts
 Zoho Docs,https://zoho.com/docs/,Secure online file management.,Office
